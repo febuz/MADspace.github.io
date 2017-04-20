@@ -1,15 +1,8 @@
-.social ul
+ul.listLogo
 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+list-style: none;
 }
-.social li
+ul.listLogo li
 {
-    display: inline-block;
-    margin: 5px 5px 0 5px;
-}
-.social img
-{
-    width: 32px;
+padding: .5em;
 }
