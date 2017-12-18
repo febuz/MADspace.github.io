@@ -1,4 +1,4 @@
 MADspace.github.io
 ==================
 
-Onze MADspace site in ontwikkeling.........
+De website van MADspace, de Eindhovense Hackerspace.
