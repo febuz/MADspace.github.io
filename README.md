@@ -23,7 +23,7 @@ Moreover, it’s not just us who can move this website to some other hosting pla
 2. make your changes
 3. create a pull request
 
-We follow the methodology as described on the github help pages on [forking](https://help.github.com/articles/fork-a-repo/) and ~[syncing](https://help.github.com/articles/syncing-a-fork/)
+We follow the methodology as described on the github help pages on [forking](https://help.github.com/articles/fork-a-repo/) and [syncing](https://help.github.com/articles/syncing-a-fork/)
 
 ## What work needs to be done?
 We use the ![github issue queue](https://github.com/MADspace/MADspace.github.io/issues), so you can have a look at it to see what the current issues are.
