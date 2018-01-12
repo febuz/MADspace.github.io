@@ -394,3 +394,20 @@ ul.listLogo {
 
 ul.listLogo li {
   padding: .5em; }
+
+.navbar {
+  background-color: #E0393E; }
+  .navbar li a {
+    color: white;
+    line-height: 82px; }
+
+.post-content {
+  margin-top: 100px; }
+
+img {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.navbar-brand img {
+  margin-top: 0px;
+  margin-bottom: 0px; }
