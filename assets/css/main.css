@@ -411,3 +411,7 @@ img {
 .navbar-brand img {
   margin-top: 0px;
   margin-bottom: 0px; }
+
+.projects li {
+  font-size: 20px;
+  list-style: none; }
