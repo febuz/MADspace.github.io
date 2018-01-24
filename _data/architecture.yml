@@ -1,5 +1,14 @@
+- title: Blog
+  url: /posts/
+
+- title: Deelnemers
+  url: /participants/
+
 - title: Projecten
   url: /projects/
 
 - title: Over
   url: /over/
+  sub-pages:
+  - title: Hoe bijdragen?
+    url: /contrib/

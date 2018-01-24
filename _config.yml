@@ -9,5 +9,9 @@ keywords: stichting, madspace, foundation, home, hackerspace, eindhoven, bestuur
 markdown: kramdown
 
 collections:
+  posts:
+    output: true
+  participants:
+    output: true
   projects:
     output: true

@@ -1,0 +1,15 @@
+---
+layout: default
+title: Blog
+permalink: /posts/
+---
+
+<h1>Blog</h1>
+
+<div class="posts">
+    {% for post in site.posts %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+</div>

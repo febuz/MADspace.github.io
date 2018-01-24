@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+      {% include header.html %}
+      <h1 class="more-top add-left">
+      </h1>
+      <div class="row post-content">
+        <div class="col-lg-9 col-md-9 col-sm-9 page-content-left">
+          {{ content }}
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-3 text-left">
+          {% include blocks/meetup.html %}
+          {% include blocks/social_links.html %}
+          {% include blocks/openingstijden.html %}
+          {% include blocks/bezoek_adres.html %}
+          {% include blocks/ondersteuning.html %}
+        </div>
+      </div>
+      {% include footer.html %}
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
+    <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://blockchain.info/Resources/js/pay-now-button.js"></script>
+  </body>
+</html>
