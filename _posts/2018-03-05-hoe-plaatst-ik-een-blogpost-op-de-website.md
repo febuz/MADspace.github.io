@@ -14,9 +14,9 @@ We volgen de methode zoals deze wordt beschreven op de pagina's over [forking](h
 
 ## Waar moet ik op letten?
 
-* Geef de pagina een bestandsnaam zoals: 9999-99-99-dit-is-de-titel.md
+Geef de pagina een bestandsnaam zoals: 9999-99-99-dit-is-de-titel.md
 
-* Begin de pagina met wat frontmatter:
+Begin de pagina met wat frontmatter:
 
     ---
     layout: post
