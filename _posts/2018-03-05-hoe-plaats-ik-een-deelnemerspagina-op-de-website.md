@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hoe plaats ik een projectpagina op de website?
-date:   2018-01-24 16:16:01
+title: Hoe plaats ik een deelnemerspagina op de website?
+date:   2018-03-05 10:32:42
 ---
 
-# Hoe plaats ik een projectpagina op de website?
+# Hoe plaats ik een deelnemerspagina op de website?
 
 * Fork de [websiterepository](https://github.com/MADspace/MADspace.github.io) op github
-* Maak een nieuwe projectpagina aan in de _projects directory
+* Maak een nieuwe deelnemerspagina aan in de _participants directory
 * Na het maken van de aanpassingen, push de repository en maak een pull request
 
 We volgen de methode zoals deze wordt beschreven op de pagina's over [forking](https://help.github.com/articles/fork-a-repo/) en [syncing](https://help.github.com/articles/syncing-a-fork/)
@@ -17,8 +17,8 @@ We volgen de methode zoals deze wordt beschreven op de pagina's over [forking](h
 Begin de pagina met wat frontmatter:
 
     ---
-    layout: project
-    title: Embedded Systems Eindhoven
+    layout: participant
+    title: Doe, John
     ---
 
 Daarna kun je er voor kiezen om de content in html of in markdown in het document te zetten.
