@@ -1,22 +1,22 @@
 ---
 layout: project
-title: Robotica Project's
+title: Robotica Projects
 ---
 
-# Robotica Project's
-## Our wise approach
+# Robotica Projects
+### Our wise approach
 
-### A. Preperations
+#### A. Preperations
    1. To select a line following robot kit (from the web, Joris)
    2. Estimate costing, time, level of interest in kit.
    3. Purchase kit
 
-### B. In Action
+#### B. In Action
    1. Hold internal robot workshop (write plan)
    2. Hold line following robot race
 
    
-### C. Share Knowledge
+#### C. Share Knowledge
    1. Find school interested in workshop
    2. Hold robot workshop for kids
    3. Hold second line following robot race

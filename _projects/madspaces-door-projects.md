@@ -4,7 +4,7 @@ title: MADspace's Door Projects
 ---
 
 # MADspace's Door Projects
-## MADspace's Door Projects
+### MADspace's Door Projects
 
 We managed to get the magnetic lock on the front door operational again.
 
@@ -12,19 +12,19 @@ There are 2 8-wire cables (red, blue, green, yellow, 4x white) running from the 
 
 The doorbell is wired as:
 
-> 9V net adapter (at reception desk)
-> UTP cable (2 wires)
-> door bell (just wired to the button switch, nothing else is connected)
-> UTP cable (2 wires)
-> bell (intercom unit, only has 2 wires, don't know if there are more connectors insode)
-> back to net adapter
+> * 9V net adapter (at reception desk)
+> * UTP cable (2 wires)
+> * Door bell (just wired to the button switch, nothing else is connected)
+> * UTP cable (2 wires)
+> * Bell (intercom unit, only has 2 wires, don't know if there are more connectors insode)
+> * Back to net adapter
 
 The magnetic lock is wired as:
-> 24V net adapter (at reception desk)
-> UTP cable (2 pairs, each pair wired together to allow for larger current)
-> magnetic lock
-> UTP cable (2 pairs, each pair wired together to allow for larger current)
-> back to net adapter
+> * 24V net adapter (at reception desk)
+> * UTP cable (2 pairs, each pair wired together to allow for larger current)
+> * Magnetic lock
+> * UTP cable (2 pairs, each pair wired together to allow for larger current)
+> * Back to net adapter
 
 Obviously without having the adapter plugged in. There is no switch included in this circuit. There is a switch at the reception desk, but it is currently not connected to anything.
 
@@ -34,9 +34,10 @@ I actually expect that coils in series is for 24V and coils in parallel for 12V.
 
 There are 2 unused twisted pairs running to the door lock, which allows to easily extend the setup (e.g. door sensor + status led + button; or power + RS485 to a microcontroller).
 
-## Control the door with the magnetic lock
+### Control the door with the magnetic lock
 
 Now that we have a working magnetic lock, we still have to solve some issues before we can use this lock:
+
 * Safety: there must always be a clear way to open the door from the inside. Also when the software (if any) or power fails.
 * The regular (mechanical) lock must be somehow disabled while the maglock is in use (otherwise people still cannot get in…)
 * Other inhabitants should still be able to get in while the maglock is used (they probably don't like having to ring our bell and wait for us to open the door to get to their own office).
@@ -60,11 +61,11 @@ What's still left to do:
 
 *Note: Beware that this design is not very secure (although it's good enough for our situation).*
 
-## Key sharing
+### Key sharing
 
 For the key management issue, I believe an electronic key safe is a good option (sturdy box that, after proper auth, can give you the key to open the door in the normal way. When leaving, you put the key back into the box). The mailbox slot seems a suitable interface for this (already gives basic vandalism/burglar-resistance).
 
-## Authorization
+### Authorization
 
 In this area, only some wild initial ideas:
 
@@ -77,11 +78,11 @@ In this area, only some wild initial ideas:
 
 Can be used for both the maglock and the key safe. Maglock can initially be just controlled using a switch inside the space.
 
-## Online Space Status
+### Online Space Status
 
 We want to announce when the space is open on the internet. Most easy is to install a physical switch for this (but with the risk that people forget to toggle it). We can create more advanced setups later (e.g. connect to door lock system).
 
-Announcement of open/close status should be on our own website, on IRC, and on hackerspaces.nl %28via [SpaceAPI](http://hackerspaces.nl/spaceapi/)%28.
+Announcement of open/close status should be on our own website, on IRC, and on hackerspaces.nl (via [SpaceAPI](http://hackerspaces.nl/spaceapi/)).
 
 
 
