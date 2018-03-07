@@ -3,6 +3,8 @@ layout: participant
 title: Huub de Beer
 keywords: 
 - JavaScript
+- pandoc
+- Ruby
 ---
 
 Hello!
