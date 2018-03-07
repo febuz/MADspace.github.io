@@ -7,7 +7,7 @@ keywords:
 
 Hello!
 
-I am Huub de Beer (\_ht in the `#madspace` channel on the Freenode IRC
+I am Huub de Beer (`_ht` in the `#madspace` channel on the Freenode IRC
 network) and at MADspace I often work on my own [free
 software](https://www.gnu.org/philosophy/free-sw.en.html) projects. 
 
