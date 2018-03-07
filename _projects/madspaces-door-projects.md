@@ -12,19 +12,19 @@ There are 2 8-wire cables (red, blue, green, yellow, 4x white) running from the 
 
 The doorbell is wired as:
 
-> * 9V net adapter (at reception desk)
-> * UTP cable (2 wires)
-> * Door bell (just wired to the button switch, nothing else is connected)
-> * UTP cable (2 wires)
-> * Bell (intercom unit, only has 2 wires, don't know if there are more connectors insode)
-> * Back to net adapter
+  * 9V net adapter (at reception desk)
+  * UTP cable (2 wires)
+  * Door bell (just wired to the button switch, nothing else is connected)
+  * UTP cable (2 wires)
+  * Bell (intercom unit, only has 2 wires, don't know if there are more connectors insode)
+  * Back to net adapter
 
 The magnetic lock is wired as:
-> * 24V net adapter (at reception desk)
-> * UTP cable (2 pairs, each pair wired together to allow for larger current)
-> * Magnetic lock
-> * UTP cable (2 pairs, each pair wired together to allow for larger current)
-> * Back to net adapter
+  * 24V net adapter (at reception desk)
+  * UTP cable (2 pairs, each pair wired together to allow for larger current)
+  * Magnetic lock
+  * UTP cable (2 pairs, each pair wired together to allow for larger current)
+  * Back to net adapter
 
 Obviously without having the adapter plugged in. There is no switch included in this circuit. There is a switch at the reception desk, but it is currently not connected to anything.
 
