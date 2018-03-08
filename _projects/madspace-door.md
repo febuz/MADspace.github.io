@@ -1,10 +1,15 @@
 ---
 layout: project
-title: MADspace's Door Projects
+title: MADspace Door
 ---
 
-# MADspace's Door Projects
-### MADspace's Door Projects
+# MADspace Door
+
+### Status
+
+This project has been abandoned, as it was related to the fysical entrance door of the building, but we have moved to a different location.
+
+### Project Description
 
 We managed to get the magnetic lock on the front door operational again.
 
