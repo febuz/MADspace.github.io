@@ -15,3 +15,7 @@ collections:
     output: true
   projects:
     output: true
+
+plugins:
+    - jekyll_get
+
