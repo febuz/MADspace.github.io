@@ -2,7 +2,6 @@
 layout: participant
 title: Joost Hoeks
 ---
-<p>My projects:</p>
 <div id="projects"></div>
 
 <script type="text/javascript">
@@ -19,12 +18,20 @@ xmlhttp.open('GET', url, true);
 xmlhttp.send();
 
 function myFunction(arr) {
-    var out = '<table><tr><th>Url:</th><th>Updated at:</th><th>Language:</th><th>Stars:</th><th>Forks:</th></tr>';
+    var out = '<div class="table-responsive">';
+    out += '<table class="table table-striped table-bordered table-hover">';
+    out += '<caption>My projects:</caption>';
+    out += '<thead>';
+    out += '<tr><th scope="col">#</th><th scope="col">Url:</th><th scope="col">Updated at:</th><th scope="col">Language:</th><th scope="col">Stars:</th><th scope="col">Forks:</th></tr>';
+    out += '</thead>';
+    out += '<tbody>';
     var i;
     for(i = 0; i < arr.length; i++) {
-        out += '<tr><td><a href="' + arr[i].html_url + '" onclick="window.open(this.href); return false;">' + arr[i].name + '</a></td><td>' + arr[i].updated_at +'</td><td>' + arr[i].language + '</td><td>' + arr[i].stargazers_count + '</td><td>' + arr[i].forks_count + '</td></tr>';
+        out += '<tr><th scope="row">' + (i + 1) + '</th><td><a href="' + arr[i].html_url + '" onclick="window.open(this.href); return false;">' + arr[i].name + '</a></td><td>' + arr[i].updated_at +'</td><td>' + arr[i].language + '</td><td>' + arr[i].stargazers_count + '</td><td>' + arr[i].forks_count + '</td></tr>';
     }
-    out += '</table>'
+    out += '</tbody>';
+    out += '</table>';
+    out += '</div>';
     document.getElementById('projects').innerHTML = out;
 }
 </script>
