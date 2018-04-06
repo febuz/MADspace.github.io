@@ -2,7 +2,30 @@
 layout: participant
 title: Joost Hoeks
 ---
-jekyll_get:
-    data: projects
-    json: 'https://api.github.com/users/joosthoeks/repos?type=owner&sort=updated&direction=desc'
+<p>My projects:</p>
+<div id="projects"></div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = 'https://api.github.com/users/joosthoeks/repos?type=owner&sort=updated&direction=desc'
+
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var myArr = JSON.parse(this.responseText);
+        myFunction(myArr);
+    }
+};
+xmlhttp.open('GET', url, true);
+xmlhttp.send();
+
+function myFunction(arr) {
+    var out = '<ol>';
+    var i;
+    for(i = 0; i < arr.length; i++) {
+        out += '<li><a href="' + arr[i].html_url + '" onclick="window.open(this.href); return false;">' + arr[i].name + '</a></li>';
+    }
+    out += '</ol>'
+    document.getElementById('projects').innerHTML = out;
+}
+</script>
 
