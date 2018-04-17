@@ -28,22 +28,27 @@ Heb je zelf al hardware zoals bijvoorbeeld een RaspberryPi, Philips Hue, Ikea Tr
 Deze workshop worden op een unieke locatie gegeven!
 Met dank aan Smart Homes, vinden deze workshops plaats in de slimste woning van Nederland, naast het Evoluon!
 
+<img
+  class="img-responsive"
+  src="https://github.com/MADspace/MADspace.github.io/blob/master/assets/img/linkedin.png/slimste-woning-van-nederland.jpg">
+
 De Slimste Woning van Nederland fungeert als onderzoeksplatform voor verschillende typen onderzoek, van zuiver wetenschappelijk tot aan eenvoudige testonderzoek van nieuwe oplossingen. 
 In de woning zijn diverse technische systemen met elkaar gekoppeld tot een smart grid netwerk op woningniveau. 
 De woning bevat o.a. een warmtepomp, zonnepanelen, lage temperatuur verwarming, lichtregelsystemen en stand-by killers. 
 In de woning zijn ook concepten uit de domotica, Industrieel, Flexibel en Demontabel (IFD) bouwen en duurzaam materiaal-gebruik geïntegreerd.
 
-![Slimste huis van Nederland](https://github.com/MADspace/MADspace.github.io/blob/master/assets/img/linkedin.png/slimste-woning-van-nederland.jpg "Slimste huis van Nederland")
+<a href="http://www.smart-homes.nl/">www.smart-homes.nl</a>
+<a href="https://www.youtube.com/watch?v=7dfhFCTbO0g">VPRO Tegenlicht - Slimste huis van Nederland in Eindhoven</a>
 
-http://www.smart-homes.nl/
-https://www.youtube.com/watch?v=7dfhFCTbO0g
+### __ Routebeschrijving
 
-### Routebeschrijving
+<img
+  class="img-responsive"
+  src="https://github.com/MADspace/MADspace.github.io/blob/master/assets/img/linkedin.png/Huisvdtoekomst.jpg">
 
-https://www.google.nl/maps/place/Evoluon/@51.4435695,5.4468691,15z/data=!4m5!3m4!1s0x0:0x2a5be19a8f135bf0!8m2!3d51.4435695!4d5.4468691
-![Routebeschrijving](https://github.com/MADspace/MADspace.github.io/blob/master/assets/img/linkedin.png/Huisvdtoekomst.jpg "Routebeschrijving")
+<a href="https://www.google.nl/maps/place/Evoluon/@51.4435695,5.4468691,15z/data=!4m5!3m4!1s0x0:0x2a5be19a8f135bf0!8m2!3d51.4435695!4d5.4468691">Locatie op Google Maps</a>
 
-## Inschrijven
+## - Inschrijven
 
 Als je actief wenst deel te nemen aan deze workshop vragen wij je om in te schrijven via website van Meetup.
 Daarmee kan MADspace vooraf beter inschatten wat er gefaciliteerd moet worden en zal je altijd verzekerd zijn van een plek tijdens de workshops.
@@ -57,8 +62,8 @@ Deze hardware kan je gedurende en aan het eind van de workshop ook van ons overn
 Let wel, er is maar een beperkte voorraad beschikbaar, meld dus op tijd als je hier gebruik van wenst te maken!!
 Stuur een e-mail naar sander@madspace.nl als je interesse hebt.
 
-Inschrijven kan via de Meetup website:
-https://www.meetup.com/nl-NL/MADspace/
+<a href="https://www.meetup.com/nl-NL/MADspace/">Inschrijven kan via de Meetup website</a>
+
 
 ## Wat heb ik nodig?
 
@@ -69,7 +74,7 @@ We zijn immers een hackerspace :-)...
 Daarnaast zal MADspace zorgen voor voldoende en zeer diverse onderdelen om mee te expirementeren.
 Voel je dus niet verlegen als je nog niet alles hebt, wij helpen je op weg...
 
-### Basisset voor Domoticz server
+### __ Basisset voor Domoticz server
 
 De basisset maakt het mogelijk een Domoticz server op te zetten, het centrale component voor de home automation.
 Deze basisset bestaat uit de volgende componenten:
@@ -81,10 +86,10 @@ Deze basisset bestaat uit de volgende componenten:
 - Netwerkkabel
 
 Een basisset kan je aanschaffen bij diverse leveranciers:
-https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey
-https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit
-https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB
-https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html
+<a href="https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey">https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey</a>
+<a href="https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit">https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit</a>
+<a href="https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB">https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB</a>
+<a href="https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html">https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html</a>
 
 
 We zijn nog met leveranciers in gesprek om kijken of we deze hardware ook tijdens de workshop beschikbaar kunnen stellen.
@@ -94,17 +99,17 @@ We zijn nog met leveranciers in gesprek om kijken of we deze hardware ook tijden
 Naast de basisset heb je natuurlijk ook sensoren en schakelaars nodig voor je domotica.
 Als je nieuw bent met domotica zou je kunnen beginnen met een eenvoudige sensor en schakelaar, zoals bijvoorbeeld:
 
-### Sensor met wifi connectiviteit
+### __ Sensor met wifi connectiviteit
 
 - 5v (USB) of 3v voeding (2x AA batterij)
 - ESP8266
 - Sensor, bijvoorbeeld de DS18B20 of DHT11/22 temperatuur sensor
-- Accessoires zoals brhttps://www.megekko.nleadbords, weerstanden, Dupont kabeltjes, etc.
+- Accessoires zoals breadbords, weerstanden, Dupont kabeltjes, etc.
 
 Voorbeeld:
-https://iot-playground.com/blog/2-uncategorised/41-esp8266-ds18b20-temperature-sensor-arduino-ide
+<a href="https://iot-playground.com/blog/2-uncategorised/41-esp8266-ds18b20-temperature-sensor-arduino-ide">https://iot-playground.com/blog/2-uncategorised/41-esp8266-ds18b20-temperature-sensor-arduino-ide</a>
 
-### Schakelaar met wifi connectiviteit
+### __ Schakelaar met wifi connectiviteit
 
 - 3V voeding (2x AA batterij)
 - ESP8266
@@ -112,9 +117,9 @@ https://iot-playground.com/blog/2-uncategorised/41-esp8266-ds18b20-temperature-s
 - Accessoires zoals breadbords, weerstanden, Dupont kabeltjes, etc.
 
 Voorbeeld:
-https://iot-playground.com/blog/2-uncategorised/40-esp8266-wifi-relay-switch-arduino-ide
+<a href="https://iot-playground.com/blog/2-uncategorised/40-esp8266-wifi-relay-switch-arduino-ide">https://iot-playground.com/blog/2-uncategorised/40-esp8266-wifi-relay-switch-arduino-ide</a>
 
-### Ter inspiratie
+### __ Ter inspiratie
 
 Natuurlijk kan je heel veel meer koppelen aan je domotica server.
 Je kan daarbij denken aan (een combinatie van) de volgende componenten:
@@ -136,24 +141,24 @@ Je kan daarbij denken aan (een combinatie van) de volgende componenten:
 - Slimme thermostaat (NEST of Toon bijvoorbeeld)
 
 Een actuele lijst van compatible hardware kan je terug vinden op de website van Domoticz:
-https://www.domoticz.com/wiki/Hardware
+<a href="https://www.domoticz.com/wiki/Hardware">https://www.domoticz.com/wiki/Hardware</a>
 
 ## Nuttige links:
 
-### Hardware leveranciers
-- SOS Solutions - https://www.sossolutions.nl
-- Brigatti Electronics - https://www.brigatti.nl
-- Kiwi Electronics - https://www.kiwi-electronics.nl
-- Megekko - https://www.megekko.nl
-- CoolBlue - https://www.coolblue.nl
-- Nodo-shop (leverancier RFLink) - https://www.nodo-shop.nl
+### __ Hardware leveranciers
+- <a href="https://www.sossolutions.nl">SOS Solutions</a>
+- <a href="https://www.brigatti.nl">Brigatti Electronics</a>
+- <a href="https://www.kiwi-electronics.nl">Kiwi Electronics</a>
+- <a href="https://www.megekko.nl">Megekko</a>
+- <a href="https://www.coolblue.nl">CoolBlue</a>
+- <a href="https://www.nodo-shop.nl">Nodo-shop (leverancier RFLink)</a>
 
-### Informatiebronnen
-- Domoticz - https://domoticz.com
-- ESPEasy / Let's Control It - https://www.letscontrolit.com
-- RFLink gateway - http://www.rflink.nl
-- Hackster.io - https://www.hackster.io
-- Domoticz Blog van Harm Tilburgs - http://domotica.tilburgs.com
-- IoT playground - https://iot-playground.com
-- ThingSpeak - https://thingspeak.com/
-- MySensors - https://www.mysensors.org/
+### __ Informatiebronnen
+- <a href="https://domoticz.com">Domoticz</a>
+- <a href="https://www.letscontrolit.com">ESPEasy / Let's Control It</a>
+- <a href="http://www.rflink.nl">RFLink gateway</a>
+- <a href="https://www.hackster.io">Hackster.io</a>
+- <a href="http://domotica.tilburgs.com">Domoticz Blog van Harm Tilburgs</a>
+- <a href="https://iot-playground.com">IoT playground</a>
+- <a href="https://thingspeak.com/">ThingSpeak</a>
+- <a href="https://www.mysensors.org/">MySensors</a>
