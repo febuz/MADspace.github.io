@@ -1,4 +1,4 @@
----
+git merge upstream/master---
 layout: post
 title: Mei maand - Home automation maand!
 date: 2018-04-17 20:00
@@ -10,14 +10,15 @@ In de maand mei stort MADspace zich op het onderwerp Home Automation en domotica
 
 In 5 avonden geven we 5 aaneengesloten workshops voor mensen die graag willen starten met een eigen domotica omgeving, voor thuis, kantoor of ?.
 
-Met deze toegankelijke workshop geeft MADspace een workshop waarbij we van begin tot eind een home automation oplossing gaan opbouwen, op basis van het gebruiksvriendelijke en bekende Domoticz.
+Met deze toegankelijke workshops geeft MADspace de mogelijkheid om van begin tot eind een home automation oplossing te gaan bouwen, op basis van het gebruiksvriendelijke en bekende Domoticz.
 
-Eigen hardware mag je meenemen, we zijn nog met leveranciers in gesprek om te kijken of we ook hardware kunnen aanbieden tijdens de workshops.
-Heb je zelf al hardware zoals bijvoorbeeld een RaspberryPi, Philips Hue, Ikea Tradfri, draadloze schakelaars van de Action, etc, dan kan je deze natuurlijk ook mee nemen om aan te sluiten.
+Uitgangspunt is dat je eigen hardware mee neemt of in iedergeval de basis (een Raspberry Pi).
+We zijn nog met leveranciers in gesprek om te kijken of we ook hardware kunnen aanbieden voor tijdens de workshops.
+Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea Tradfri, draadloze schakelaars van de Action, etc, dan kan je deze natuurlijk ook mee nemen om aan te sluiten.
 
 ## Programma Workshop Beginners
 
-* Avond 1 -  2 mei: Opzetten van je eerste domotica server met een RasbperryPi en Domoticz
+* Avond 1 -  2 mei: Opzetten van je eerste domotica server met een Raspberry Pi en Domoticz
 * Avond 2 -  9 mei: Koppelen van verschillende sensoren, schakelaars en technieken
 * Avond 3 - 16 mei: Automatiseren van je domotica
 * Avond 4 - 23 mei: Mogelijkheden om je domotica oplossing verder uit te bouwen
@@ -31,7 +32,7 @@ Met dank aan Smart Homes, vinden deze workshops plaats in de slimste woning van 
 
 <img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/slimste-woning-van-nederland.jpg" height="342" width="512">
 
-De Slimste Woning van Nederland fungeert als onderzoeksplatform voor verschillende typen onderzoek, van zuiver wetenschappelijk tot aan eenvoudige testonderzoek van nieuwe oplossingen. 
+De Slimste Woning van Nederland fungeert als onderzoeksplatform voor verschillende typen onderzoek, van zuiver wetenschappelijk tot aan eenvoudig testonderzoek van nieuwe oplossingen.
 In de woning zijn diverse technische systemen met elkaar gekoppeld tot een smart grid netwerk op woningniveau. 
 De woning bevat o.a. een warmtepomp, zonnepanelen, lage temperatuur verwarming, lichtregelsystemen en stand-by killers. 
 In de woning zijn ook concepten uit de domotica, Industrieel, Flexibel en Demontabel (IFD) bouwen en duurzaam materiaal-gebruik geïntegreerd.
@@ -51,13 +52,13 @@ De slimste woning van Nederland vindt je achter het Evoluon in Eindhoven:
 
 ## Inschrijven
 
-Als je actief wenst deel te nemen aan deze workshop vragen wij je om in te schrijven via website van Meetup.
+Als je actief wenst deel te nemen aan deze workshops kan je inschrijven via de website van Meetup.
 Daarmee kan MADspace vooraf beter inschatten wat er gefaciliteerd moet worden en zal je altijd verzekerd zijn van een plek tijdens de workshops.
 Natuurlijk ben je ook gewoon welkom om tijdens de workshop eens binnen te lopen !
 
 Om deel te kunnen nemen aan de workshops vragen wij een kleine vergoeding om de kosten te kunnen dekken.
-Voor deze workshop (5 avonden) vragen wij € 25,00. Met dat bedrag steun je ook meteen stichting MADspace.
-Als je liever maar een losse avond wilt komen kan dat ook, je betaald dan € 7,50 per avond.
+Voor deze workshop (5 avonden) vragen wij een vergoeding van € 25,00. Met dat bedrag steun je ook meteen stichting MADspace.
+Als je liever maar een losse avond wilt komen kan dat ook, je betaalt dan € 7,50 per avond.
 
 Mocht je nog niet over eigen hardware beschikken kunnen wij kijken of we dit kunnen verzorgen.
 Hiervoor zijn we al in contact met mogelijke leveranciers.
@@ -67,12 +68,12 @@ Stuur een e-mail naar sander@madspace.nl als je interesse hebt.
 
 ## Wat heb ik nodig?
 
-In principe gaan we ervan uit dat je zelf zorgt voor alle onderdelen, al begrijpen we dat je misschien nog niet weet wat je nodig hebt. Het voordeel van het inbrengen van eigen hardware is natuurlijk dat alles wat je leert tijdens de workshops ook meteen thuis kan toepassen.
-Afgezien van een basisset (RaspberyPi), dagen wij je ook uit om met eigen sensoren, schakelaars en ideeen te komen.
+In principe gaan we ervan uit dat je zelf zorgt voor alle onderdelen, al begrijpen we dat je misschien nog niet weet wat je nodig hebt. Het voordeel van het inbrengen van eigen hardware is natuurlijk dat je alles wat je leert tijdens de workshops ook meteen thuis kan toepassen.
+Afgezien van een basisset (Raspberry Pi), dagen wij je ook uit om met eigen sensoren, schakelaars en ideeen te komen.
 We zijn immers een hackerspace :-)...
 
 Daarnaast zal MADspace zorgen voor voldoende en zeer diverse onderdelen om mee te expirementeren.
-Voel je dus niet verlegen als je nog niet alles hebt, wij helpen je op weg...
+Laat je niet tegenhouden als je nog niet alles hebt, wij helpen je op weg...
 
 ### __ Basisset voor Domoticz server
 
@@ -90,9 +91,6 @@ Een basisset kan je aanschaffen bij diverse leveranciers:
 <a href="https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit">https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit</a>
 <a href="https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB">https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB</a>
 <a href="https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html">https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html</a>
-
-We zijn nog met leveranciers in gesprek om kijken of we deze hardware ook tijdens de workshop beschikbaar kunnen stellen.
-Schrijf je in voor de mailinglijst als je hierover graag op de hoogte wilt worden gehouden.
 
 ## Sensoren en schakelaars
 
