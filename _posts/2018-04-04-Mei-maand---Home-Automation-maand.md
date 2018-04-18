@@ -16,6 +16,12 @@ Uitgangspunt is dat je eigen hardware mee neemt of in iedergeval de basis (een R
 We zijn nog met leveranciers in gesprek om te kijken of we ook hardware kunnen aanbieden voor tijdens de workshops.
 Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea Tradfri, draadloze schakelaars van de Action, etc, dan kan je deze natuurlijk ook mee nemen om aan te sluiten.
 
+<b>Let op!
+  Wegens beperkte ruimte op de locatie kunnen er maximaal 16 personen actief deelnemen aan deze workshops.
+  Schrijf je in op de MADspace maillijst om op de hoogte te blijven van ontwikkelingen rondom deze workshops:
+  <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
+</b>
+
 ## Programma Workshop Beginners
 
 * Avond 1 -  2 mei: Opzetten van je eerste domotica server met een Raspberry Pi en Domoticz
@@ -55,6 +61,13 @@ De slimste woning van Nederland vindt je achter het Evoluon in Eindhoven:
 Als je actief wenst deel te nemen aan deze workshops kan je inschrijven via de website van Meetup.
 Daarmee kan MADspace vooraf beter inschatten wat er gefaciliteerd moet worden en zal je altijd verzekerd zijn van een plek tijdens de workshops.
 Natuurlijk ben je ook gewoon welkom om tijdens de workshop eens binnen te lopen !
+
+<b>Let op!
+  Wegens beperkte ruimte kunnen er maximaal 16 personen actief deelnemen aan deze workshops.
+  Schrijf je in op de MADspace maillijst om op de hoogte te blijven van ontwikkelingen rondom deze workshops:
+  <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
+</b>
+  
 
 Om deel te kunnen nemen aan de workshops vragen wij een kleine vergoeding om de kosten te kunnen dekken.
 Voor deze workshop (5 avonden) vragen wij een vergoeding van € 25,00. Met dat bedrag steun je ook meteen stichting MADspace.
