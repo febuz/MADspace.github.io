@@ -87,10 +87,10 @@ Deze basisset bestaat uit de volgende onderdelen:
 - Netwerkkabel
 
 Een basisset kan je aanschaffen bij diverse leveranciers:
-<a href="https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey">https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey</a>
-<a href="https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit">https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit</a>
-<a href="https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB">https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB</a>
-<a href="https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html">https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html</a>
+- <a href="https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey">https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey</a>
+- <a href="https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit">https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit</a>
+- <a href="https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB">https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB</a>
+- <a href="https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html">https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html</a>
 
 ## Sensoren en schakelaars
 
