@@ -22,6 +22,13 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
   <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
 </b>
 
+<b>Hardware sponsor!</b>
+<img class="img-responsive" src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png">
+  Tijdens de workshops is er, met dank aan SOS Solutions, hardware beschikbaar waarmee je kan werken.
+  Deze hardware mag je in bruikleen gebruiker maar niet mee naar huis nemen.
+  Mocht je gedurende of na de workshops deze hardware graag willen overnemen kan dat.
+<b>
+
 ## Programma Workshop Beginners
 
 * Avond 1 -  2 mei: Opzetten van je eerste domotica server met een Raspberry Pi en Domoticz
@@ -44,6 +51,7 @@ De woning bevat o.a. een warmtepomp, zonnepanelen, lage temperatuur verwarming, 
 In de woning zijn ook concepten uit de domotica, Industrieel, Flexibel en Demontabel (IFD) bouwen en duurzaam materiaal-gebruik geïntegreerd.
 
 Voor meer informatie zie ook:
+
 <a href="http://www.smart-homes.nl/">www.smart-homes.nl</a>
 
 <a href="https://www.youtube.com/watch?v=7dfhFCTbO0g">VPRO Tegenlicht - Slimste huis van Nederland in Eindhoven (YouTube)</a>
@@ -52,9 +60,9 @@ Voor meer informatie zie ook:
 
 De slimste woning van Nederland vindt je achter het Evoluon in Eindhoven:
 
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Huisvdtoekomst.jpg" height="346" width="512">
-
 <a href="https://www.google.nl/maps/place/Evoluon/@51.4435695,5.4468691,15z/data=!4m5!3m4!1s0x0:0x2a5be19a8f135bf0!8m2!3d51.4435695!4d5.4468691">Locatie op Google Maps</a>
+
+<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Huisvdtoekomst.jpg" height="346" width="512">
 
 ## Inschrijven
 
@@ -73,11 +81,17 @@ Om deel te kunnen nemen aan de workshops vragen wij een kleine vergoeding om de 
 Voor deze workshop (5 avonden) vragen wij een vergoeding van € 25,00. Met dat bedrag steun je ook meteen stichting MADspace.
 Als je liever maar een losse avond wilt komen kan dat ook, je betaalt dan € 7,50 per avond.
 
-Mocht je nog niet over eigen hardware beschikken kunnen wij kijken of we dit kunnen verzorgen.
-Hiervoor zijn we al in contact met mogelijke leveranciers.
-Stuur een e-mail naar sander@madspace.nl als je interesse hebt.
+Mocht je nog niet over eigen hardware beschikken kunnen wij deze voor je verzorgen tijdens de workshop.
+Hiervoor is er door SOS Solutions hardware ter beschikking gesteld in bruikleen.
+Stuur een e-mail naar sander@madspace.nl als je interesse hebt of geef dit tijdens de workshops aan.
 
-<a href="https://www.meetup.com/nl-NL/MADspace/">Inschrijven kan via de Meetup website</a>
+<b>Inschrijven kan via de Meetup website:</b>
+<a href="https://www.meetup.com/nl-NL/MADspace/events/250189313/">MADspace Domotica Workshop # 1</a>
+<a href="https://www.meetup.com/nl-NL/MADspace/events/250249942/">MADspace Domotica Workshop # 2</a>
+<a href="https://www.meetup.com/nl-NL/MADspace/events/250249954/">MADspace Domotica Workshop # 3</a>
+<a href="https://www.meetup.com/nl-NL/MADspace/events/250249961/">MADspace Domotica Workshop # 4</a>
+<a href="https://www.meetup.com/nl-NL/MADspace/events/250249965/">MADspace Domotica Workshop # 5</a>
+
 
 ## Wat heb ik nodig?
 
@@ -99,11 +113,8 @@ Deze basisset bestaat uit de volgende onderdelen:
 - 5V micro USB stroom adapter (2A power supply wordt aangeraden, 2.5A voor de Raspberry Pi 3)
 - Netwerkkabel
 
-Een basisset kan je aanschaffen bij diverse leveranciers:
-- <a href="https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey">https://www.kiwi-electronics.nl/raspberry-pi/board-and-kits/raspberry-pi-3-model-b-plus-basic-pack-black-grey</a>
+Een basisset kan je aanschaffen bij bijvoorbeeld SOS Solutions:
 - <a href="https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit">https://www.sossolutions.nl/raspberry-pi-3b-plus-starterkit</a>
-- <a href="https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB">https://www.megekko.nl/product/2033/226444/Raspberry-Pi/Raspberry-Pi-3-Model-B-1GB</a>
-- <a href="https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html">https://www.coolblue.nl/product/753520/raspberry-pi-3-model-b-essentials-kit.html</a>
 
 ## Sensoren en schakelaars
 
@@ -158,12 +169,12 @@ Een actuele lijst van compatible hardware kan je terug vinden op de website van 
 ## Nuttige links:
 
 ### __ Hardware leveranciers
-- <a href="https://www.sossolutions.nl">SOS Solutions</a>
-- <a href="https://www.brigatti.nl">Brigatti Electronics</a>
-- <a href="https://www.kiwi-electronics.nl">Kiwi Electronics</a>
-- <a href="https://www.megekko.nl">Megekko</a>
-- <a href="https://www.coolblue.nl">CoolBlue</a>
-- <a href="https://www.nodo-shop.nl">Nodo-shop (leverancier RFLink)</a>
+- <b><a href="https://www.sossolutions.nl">SOS Solutions</a></b>
+- <i><a href="https://www.brigatti.nl">Brigatti Electronics</a></i>
+- <i><a href="https://www.kiwi-electronics.nl">Kiwi Electronics</a></i>
+- <i><a href="https://www.megekko.nl">Megekko</a></i>
+- <i><a href="https://www.coolblue.nl">CoolBlue</a></i>
+- <i><a href="https://www.nodo-shop.nl">Nodo-shop (leverancier RFLink)</a></i>
 
 ### __ Informatiebronnen
 - <a href="https://domoticz.com">Domoticz</a>
