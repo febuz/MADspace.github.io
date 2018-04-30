@@ -37,6 +37,12 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 * Avond 4 - 23 mei: Mogelijkheden om je domotica oplossing verder uit te bouwen
 * Avond 5 - 30 mei: Delen van inzichten en bestaande oplossingen van MADspace deelnemers
 
+## Publicaties
+
+We proberen zoveel mogelijk de presentaties en relevante informatie te delen met iedereen:
+
+<a href="http://www.smart-homes.nl/assets/attachments/Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
+
 ## Locatie: Slimste woning van Nederland
 
 Deze workshop worden op een unieke locatie gegeven!
