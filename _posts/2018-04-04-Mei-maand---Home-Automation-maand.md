@@ -41,7 +41,7 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 
 We proberen zoveel mogelijk de presentaties en relevante informatie te delen met iedereen:
 
-<a href="http://www.smart-homes.nl/assets/attachments/Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
+<a href="http://www.stichtingmadspace.nl/assets/attachments/Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
 
 ## Locatie: Slimste woning van Nederland
 
