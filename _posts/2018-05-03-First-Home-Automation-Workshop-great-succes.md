@@ -40,4 +40,4 @@ Schrijf je in op de MADspace maillijst om op de hoogte te blijven van ontwikkeli
 
 Meer informatie over deze workshops, presentatie en informatiebronnen kan je vinden op de project pagina:
 
-<b><a href="http://www.stichtingmadspace.nl/projects/Home_automation.html">http://www.stichtingmadspace.nl/projects/home_automation.html</a></b>
+<b><a href="http://www.stichtingmadspace.nl/projects/home_automation.html">http://www.stichtingmadspace.nl/projects/home_automation.html</a></b>
