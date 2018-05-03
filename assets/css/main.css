@@ -408,7 +408,9 @@ img {
   margin-top: 20px;
   margin-bottom: 20px; }
 
-.navbar-brand img {
+.navbar-brand img {.spotlight {
+   background-color: coral;
+}
   margin-top: 0px;
   margin-bottom: 0px; }
 
@@ -426,4 +428,8 @@ img {
 
 .spotlight {
    background-color: coral;
+}
+
+.news {
+   background-color: #b3cccc;
 }
