@@ -25,7 +25,7 @@ body {
 /**
  * Add the correct display in IE 9-.
  */
-article,
+font-size: 15px;article,
 aside,
 footer,
 header,
@@ -398,7 +398,9 @@ ul.listLogo li {
 .navbar {
   background-color: #E0393E; }
   .navbar li a {
-    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
     line-height: 82px; }
 
 .post-content {
