@@ -23,7 +23,9 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 </b>
 
 <b>Hardware sponsor!</b>
+
 <img class="img-responsive" src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png">
+
   Tijdens de workshops is er, met dank aan SOS Solutions, hardware beschikbaar waarmee je kan werken.
   Deze hardware mag je in bruikleen gebruiker maar niet mee naar huis nemen.
   Mocht je gedurende of na de workshops deze hardware graag willen overnemen kan dat.
