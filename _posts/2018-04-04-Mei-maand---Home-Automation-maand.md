@@ -1,4 +1,4 @@
-git merge upstream/master---
+---
 layout: post
 title: Mei maand - Home automation maand!
 date: 2018-04-17 20:00
