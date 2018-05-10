@@ -18,9 +18,9 @@ Overal, the workshop was again a succes!
 
 A short impression of the evening:
 
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-1.jpg" height="200" width="356"> <img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-2.jpg" height="200" width="356">
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-3.jpg" height="200" width="356"> <img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-4.jpg" height="200" width="356">
-<img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-5.jpg" height="200" width="356"> <img class="img-responsive" src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-6.jpg" height="200" width="356">
+<img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-1.jpg" height="200" width="356"> <img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-2.jpg" height="200" width="356">
+<img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-3.jpg" height="200" width="356"> <img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-4.jpg" height="200" width="356">
+<img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-5.jpg" height="200" width="356"> <img src="http://www.stichtingmadspace.nl/assets/img/Home_Automation_workshop2-6.jpg" height="200" width="356">
 
 ## Upcoming workshops
 
