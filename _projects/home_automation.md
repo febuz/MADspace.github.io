@@ -44,10 +44,14 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 We proberen zoveel mogelijk de presentaties en relevante informatie te delen met iedereen:
 
 * Avond 1:
-...<a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
+
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_1_v1.0.ppt">Presentatie avond 1 (PPT)</a>
+
 * Avond 2:
-...<a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_2_v1.0.ppt">Presentatie avond 2 (PPT)</a>
-...<a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Handout_ESP01_demo.pdf">Handout ESP01 (PDF)</a>
+
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_2_v1.0.ppt">Presentatie avond 2 (PPT)</a>
+   
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Handout_ESP01_demo.pdf">Handout ESP01 (PDF)</a>
 
 ## Locatie: Slimste woning van Nederland
 
