@@ -34,7 +34,7 @@ Next week, the 4th workshop, we are going to combine all that we have learned so
 Also, Nodo shop send us a few RFLink's to experiment with, should be fun!
 
 For the last workshop plans are still somewhat open and free.
-Richard, from the location "Het huis van de toekomst", is offering his knowledge and expertise by telling us how they automated the house and what kind of solutions they integrated, including the KNX protocol.
+Richard, from the location "Slimste woning van Nederland", is offering his knowledge and expertise by telling us how they automated the house and what kind of solutions they integrated, including the KNX protocol.
 Others will show you what they are using as domotica solution (at home) and how they applied different kind of technologies.
 If you have any specific subject you want to address or like to know more on, please let us know.
 
