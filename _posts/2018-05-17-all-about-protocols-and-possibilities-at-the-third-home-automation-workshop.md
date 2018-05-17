@@ -31,7 +31,7 @@ Send an e-mail to <a href="mailto:sander@madspace.nl">sander@madspace.nl</a> if 
 ## Upcoming workshops
 
 Next week, the 4th workshop, we are going to combine all that we have learned so far by building the intelligence and automation in our domotica solutions.
-Also, Nodo shop send us a few RFLink's to experiment with, should be fun!
+Also, Nodo-shop send us a few RFLink's to experiment with, should be fun!
 
 For the last workshop plans are still somewhat open and free.
 Richard, from the location "Slimste woning van Nederland", is offering his knowledge and expertise by telling us how they automated the house and what kind of solutions they integrated, including the KNX protocol.
