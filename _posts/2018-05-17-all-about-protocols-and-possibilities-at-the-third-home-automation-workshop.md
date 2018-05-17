@@ -8,7 +8,7 @@ date: 2018-05-17 08:00
 
 With the pleasure of good weather, beer & wine and some snacks, MADspace hosted their third domotica workshop last evening. It's great to see that so many enthusiastically keep coming back for these workshop with a strong positive vibe!
 
-John once again did the kickoff for the evening with a very complete and broad presentation about protocols, communication options and other technology options that are available today. After a short break, we followed up with Sander who dived deeper into 433mhz and Z-wave, giving a good and full picture about these technologies.
+John once again did the kickoff for this evening with a very complete and broad presentation about protocols, communication options and other technology options that are available today. After a short break, we followed up with Sander who dived deeper into 433mhz and Z-wave, giving a good and full picture about these technologies.
 
 After that, we all took the liberty to start with our favorite project or device.
 While some where running further experiments with their ESP8266 or LED lamp projects, others where exploring the possibilities of Z-wave and 433mhz technology.
