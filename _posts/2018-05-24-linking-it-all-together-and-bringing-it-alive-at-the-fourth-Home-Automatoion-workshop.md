@@ -7,6 +7,7 @@ date: 2018-05-24 08:00
 # Linking it all together and bringing it alive at the fourth Home Automation workshop
 
 Another week in May, another home automation workshop!
+
 Yesterday once again we all came together to share ideas and thoughts about home automation and what the possibilities to put 'the smart' into domotica. 
 
 Where we in previous workshops played with sensors, switches and protocols, it all came together with powerfull tools such as Block(l)y and alternatives.
