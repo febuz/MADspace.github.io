@@ -57,9 +57,9 @@ We proberen zoveel mogelijk de presentaties en relevante informatie te delen met
 
    <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_v1.0.ppt">Presentatie avond 3 (PPT)</a>
 
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_433mhz.ppt">Presentatie avond 3, 433 mhz(PPT)</a>
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_433mhz.ppt">Presentatie avond 3, 433 mhz (PPT)</a>
    
-   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Zwave.ppt">Presentatie avond 3, Z-wave(PPT)</a>   
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Zwave.ppt">Presentatie avond 3, Z-wave (PPT)</a>   
 
    <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_3_Install_Domoticz_on_RaspberryPi.txt">Howto install instructions of Domoticz Beta on Raspberry Pi with Rasbian Stretch (TXT)</a>
    
