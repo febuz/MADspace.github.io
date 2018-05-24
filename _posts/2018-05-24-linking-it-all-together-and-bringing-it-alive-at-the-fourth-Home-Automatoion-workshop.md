@@ -13,7 +13,7 @@ Where we in previous workshops played with sensors, switches and protocols, it a
 Starting the evening with small presentation by John about Blocky or Blockly (we are still debating this...), Sander followed up with a demonstration about these technics and quick overview of his personal Domoticz installation at home.
 After that, Hans gave an impresive and comprehensive presentation about a few other languages that you can use in Domoticz including JSON, MQTT, Python, LUA, etc.
 
-After that we all took the liberty to continue with our own endeavours, ranging from playing with Block(l)y to new brave experiments with 433mhz transceivers directly connected to the GPIO pings of a Raspberry Pi.
+After that we all took the liberty to continue with our own endeavours, ranging from playing with Block(l)y and the RFLink (Thank you Nodo-shop.nl!) to brave new experiments with 433mhz transceivers directly connected to the GPIO pins of a Raspberry Pi.
 
 Here is short impression of the evening:
 
