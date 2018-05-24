@@ -8,14 +8,14 @@ date: 2018-05-24 08:00
 
 Another week in May, another home automation workshop!
 
-Yesterday once again we all came together to share ideas and thoughts about home automation and what the possibilities to put 'the smart' into domotica. 
+Yesterday once again we all came together to share ideas and thoughts about home automation and what the possibilities are to put 'the smart' into domotica. 
 
-Where we in previous workshops played with sensors, switches and protocols, it all came together with powerfull tools such as Block(l)y and alternatives.
+Where in previous workshops we played with sensors, switches and protocols, it all came together this workshop with powerful tools such as Block(l)y and alternatives.
 
 Starting the evening with small presentation by John about Blocky or Blockly (we are still debating this...), Sander followed up with a demonstration about these technics and quick overview of his personal Domoticz installation at home.
 After that, Hans gave an impressive and comprehensive presentation about a few other languages that you can use in Domoticz including JSON, MQTT, Python, LUA, etc.
 
-After that we all took the liberty to continue with our own endeavours, ranging from playing with Block(l)y and the RFLink (Thank you Nodo-shop.nl!) to brave new experiments with 433mhz transceivers directly connected to the GPIO pins of a Raspberry Pi.
+After that we all took the liberty to continue with our own endeavors, ranging from playing with Block(l)y and the RFLink (Thank you Nodo-shop.nl!) to brave new experiments with 433mhz transceivers directly connected to the GPIO pins of a Raspberry Pi.
 
 Here is short impression of the evening:
 
@@ -35,7 +35,7 @@ Send an e-mail to <a href="mailto:sander@madspace.nl">sander@madspace.nl</a> if 
 
 For the last workshop next Wednesday you can expect:
 * Demonstration about a Software Defined Radio (SDR) and how vulnerable the 433mhz home automation solutions actually are.
-* Presentation and demonstration about the KNX standard and how this beeing combined with OpenHab at the "Huis van de toekomst", the location where we host these workshops.
+* Presentation and demonstration about the KNX standard and how this is combined with OpenHab at the "Huis van de toekomst", the location where we host these workshops.
 * Demonstration and perhaps a small workshop element regarding LoRaWAN
 
 If you have any specific subject you want to address or like to know more on, please let us know.
