@@ -14,13 +14,13 @@ The LoRaWAN delegation, consisting of Marco and Frank from the community in Eind
 
 After a short break where we could stretch our legs a bit, Richard from Smart Homes (that is the location where these workshops where organized) told us about the history and design choices that where made when they created (and still are) the house of the future. Richard closed up by giving us his professional view of the future of home automation and what to expect or look for.
 
-With that we came to the end of 5 consecutive workshops in the month of May, organised by MADspace.
-We would like to thank everybody for their participation and support (and donations!), making these workshops such a great succes, you really exceeded our expectations in so many ways. Also, we would like to thank our sponsors, without them the workshops could not have been given in such a way and on such a fantastic, special and unique location.
+With that we came to the end of 5 consecutive workshops in the month of May, organized by MADspace.
+We would like to thank everybody for their participation and support (and donations!), making these workshops such a great success, you really exceeded our expectations in so many ways. Also, we would like to thank our sponsors, without them the workshops could not have been given in such a way and on such a fantastic, special and unique location.
 And of course we like to mention the people who made these workshops possible, thank you Marco, John, Hans and Sander for organizing this event!
 
 Should you want to know more about the topics or the home automation theme in general, take a look at the MADspace community.
-Every Wednesdayevening we come together at the Lumensgroep building in Eindhoven (Don Boscostraat 4).
-Please be advised that this location is soon to change as we are looking for a new location for this hackerspace (of possibly already found one).
+Every Wednesday evening we come together at the Lumensgroep building in Eindhoven (Don Boscostraat 4).
+Please be advised that this location is soon to change as we are looking for a new location for this hackerspace (and possibly already found one, stay tuned...).
 
 Here is short impression of the evening:
 
