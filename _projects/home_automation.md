@@ -69,6 +69,17 @@ We proberen zoveel mogelijk de presentaties en relevante informatie te delen met
 
    <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_4_JSON_MQTT_Python.pptx">Presentatie avond 4, JSON, MQTT and Python (PPTX)</a>
 
+* Avond 5:
+
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SDR.ppt">Presentatie avond 5, Software Defined Radio - SDR (PPT)</a>
+   
+   <a href="https://a13.veron.nl/">afdeling Eindhoven A13 - Vereniging voor Experimenteel Radio Onderzoek in Nederland (HYPERLINK)</a> 
+
+   <a href="http://www.pi5fts.nl/">PI5FTS at Fontys University Eindhoven - WebSDR (HYPERLINK)</a>
+   
+   <a href="http://www.stichtingmadspace.nl/assets/attachments/Domotica_Presentatie_avond_5_SmartHomes.pdf">Presentatie avond 5, Smart Homes (PDF)</a>
+
+
 ## Locatie: Slimste woning van Nederland
 
 Deze workshop worden op een unieke locatie gegeven!
