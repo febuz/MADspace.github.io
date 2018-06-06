@@ -24,7 +24,7 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
 
 <b>Hardware sponsors!</b>
 
-<imgsrc="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png"><img src="https://www.ewsdomotica.nl/nodoshop.jpg">
+<img src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png"><img src="https://www.ewsdomotica.nl/nodoshop.jpg">
 
 
   Tijdens de workshops is er, met dank aan SOS Solutions en de NODO shop, hardware beschikbaar waarmee je kan werken.
