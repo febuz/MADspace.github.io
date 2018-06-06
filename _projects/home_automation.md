@@ -22,13 +22,13 @@ Heb je zelf al hardware zoals bijvoorbeeld een Raspberry Pi, Philips Hue, Ikea T
   <a href="https://madspace.nl/cgi-bin/mailman/listinfo/maillijst">https://madspace.nl/cgi-bin/mailman/listinfo/maillijst</a>
 </b>
 
-<b>Hardware sponsor!</b>
+<b>Hardware sponsors!</b>
 
-<img class="img-responsive" src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png">
+<img class="img-responsive" src="https://www.blackfridaynederland.nl/wp-content/uploads/2017/09/SOS-Solutions-Black-Friday-Actie.png"> <img class="img-responsive" src="https://www.ewsdomotica.nl/nodoshop.jpg">
 
-  Tijdens de workshops is er, met dank aan SOS Solutions, hardware beschikbaar waarmee je kan werken.
-  Deze hardware mag je in bruikleen gebruiken maar niet mee naar huis nemen.
-  Mocht je gedurende of na de workshops deze hardware graag willen overnemen kan dat.
+
+  Tijdens de workshops is er, met dank aan SOS Solutions en de NODO shop, hardware beschikbaar waarmee je kan werken.
+  Deze hardware mag je in bruikleen gebruiken maar niet mee naar huis nemen. Mocht je gedurende of na de workshops deze hardware graag willen overnemen kan dat...
 <b>
 
 ## Programma Workshop Beginners
@@ -213,11 +213,11 @@ Een actuele lijst van compatible hardware kan je terug vinden op de website van 
 
 ### __ Hardware leveranciers
 - <b><a href="https://www.sossolutions.nl">SOS Solutions</a></b>
+- <b><a href="https://www.nodo-shop.nl">Nodo-shop (leverancier RFLink)</a></b>
 - <i><a href="https://www.brigatti.nl">Brigatti Electronics</a></i>
 - <i><a href="https://www.kiwi-electronics.nl">Kiwi Electronics</a></i>
 - <i><a href="https://www.megekko.nl">Megekko</a></i>
 - <i><a href="https://www.coolblue.nl">CoolBlue</a></i>
-- <i><a href="https://www.nodo-shop.nl">Nodo-shop (leverancier RFLink)</a></i>
 
 ### __ Informatiebronnen
 - <a href="https://domoticz.com">Domoticz</a>
